@@ -62,4 +62,15 @@ The API will be available at localhost:8000/docs and the Frontend at localhost:3
 
 - [ ] AWS CI/CD Pipeline Configuration
 
+
+
+<img width="850" height="463" alt="db_design_for_project" src="https://github.com/user-attachments/assets/12d5362f-54c2-4aba-af27-3c3d2cd2a6cc" />
+
+
+<img width="850" height="464" alt="architecure_design_for_project" src="https://github.com/user-attachments/assets/c44c74ce-ee93-49e5-8020-ae732ffcf0b9" />
+
+
+
 #### Created by Dennis Iluma Senior Software Engineer Empowering the next generation of African Tech Innovators.
+
+
